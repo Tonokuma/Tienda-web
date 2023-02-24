@@ -1,3 +1,5 @@
 # Tienda-web
 
-![Imagen-Inicio-Tienda](https://user-images.githubusercontent.com/126029896/221090128-26173b93-cf93-4c9e-97d6-19143dee7be5.png)
+<h1>Imagen de la pagina inicial de la tienda web</h1>
+
+![Imagen-Inicio-Tienda](https://user-images.githubusercontent.com/126029896/221090309-deb466a2-ec43-4a8c-b19e-fab5cb1365fc.png)
